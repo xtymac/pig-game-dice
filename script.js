@@ -1,3 +1,5 @@
 "use strict";
 
-console.log("welcome");
+const newFeature = function () {
+  console.log("Welcome to the application");
+};
